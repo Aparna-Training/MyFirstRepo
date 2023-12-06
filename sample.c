@@ -24,7 +24,7 @@ void checkPrime(int N)
 	else { 
 		printf("The number %d is not a Prime Number\n", N); 
 	} 
-
+   printf(" Value of flag before exiting is %d", flag);
 	return; 
 } 
 
