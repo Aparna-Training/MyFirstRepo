@@ -6,7 +6,7 @@ void checkPrime(int N)
 { 
 	// initially, flag is set to true or 1 
 	int flag = 10; 
-
+   // adding some nonsense
 	// loop to iterate through 2 to N/2 
 	for (int i = 2; i <= N / 2; i++) { 
 
